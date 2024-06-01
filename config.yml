@@ -1,0 +1,78 @@
+baseURL: ""
+languageCode: "en-us"
+title: "Code with B"
+theme: PaperMod
+
+defaultContentLanguage: en-us
+
+languages:
+  en-us:
+    languageName: "English"
+    title: "Code with B"
+    weight: 1
+
+    params:  
+      homeInfoParams:
+        Title: "Code with B"
+        Content: "Hi, I'm Héctor, a Computer Engineering student at UNAM and a web developer. This website is a space where I will share my knowledge, resources, and more with those looking to dive into the world of coding. I am eager to collaborate on tech projects and to develop websites or applications. 🚀 You're just one click away from having the perfect site or app for your business! 🚀 Follow me on my social media:"
+          
+    menu:
+        main:
+          - name: "Home"
+            url: "/"
+            weight: 10
+          - name: "Opportunities"
+            url: "/opportunities/"
+            weight: 20
+          - name: "About me"
+            url: "/about/"
+            weight: 30
+
+  es:
+    languageName: "Spanish"
+    title: "Code with B"
+    weight: 2
+
+    params:
+      homeInfoParams:
+        Title: "Code with B"
+        Content: "Hola, soy Héctor, estudiante de Ingeniería en Computación en la UNAM y desarrollador web. Este sitio web es un espacio donde compartiré mis conocimientos, recursos y más con aquellos que deseen iniciarse en el mundo del código. Estoy dispuesto a colaborar en proyectos tecnológicos y a desarrollar páginas web o aplicaciones. 🚀 ¡Estás a un clic de distancia de tener la página o app perfecta para tu negocio! 🚀 Sígueme en mis redes sociales:"
+      
+    menu:
+      main:
+        - name: "Inicio"
+          url: "/"
+          weight: 10
+        - name: "Oportunidades"
+          url: "/oportunidades/"
+          weight: 20
+        - name: "Acerca de mí"
+          url: "/about/"
+          weight: 30
+
+params:
+  assets:
+    favicon: "/images/favicon.ico"
+    favicon16x16: "/images/favicon-16x16.png"
+    favicon32x32: "/images/favicon-32x32.png"
+    apple_touch_icon: "/images/apple-touch-icon.png"
+    android_chrome_192x192: "/images/android-chrome-192x192.png"
+    android_chrome_512x512: "/images/android-chrome-512x512.png"
+  
+  SocialIcons:
+    - name: "github"
+      url: "https://github.com/BarrigueteHector"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/h%C3%A9ctor-alejandro-barriguete-rodr%C3%ADguez-aa0a11241/"
+    - name: "x"
+      url: "https://x.com/Code_With_B"
+    
+
+  #cover:
+  #  linkFullImages: true
+  
+  disableThemeToggle: true
+  defaultTheme: dark # Dark theme (The theme is dark although it should be light.)
+
+  #ShowBreadCrumbs: true # Show breadcrumbs in the post
+  #ShowShareButtons: true # Show share buttons in the post
