@@ -31,6 +31,9 @@ languages:
           - name: "About me"
             url: "/about/"
             weight: 4
+          - name: "Some"
+            url: "/c/"
+            weight: 5
 
   es:
     contentDir: content/es
