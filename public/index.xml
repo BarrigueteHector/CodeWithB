@@ -15,20 +15,6 @@
       <description> México / CDMX 📍 UNAM 💙💛 Computer Engineer / Software Engineer 💻 Web developer jr Learning data science Entrepreneur NFL / Patriot 🏈 I love technology ❤️ </description>
     </item>
     <item>
-      <title>About me</title>
-      <link>//localhost:1313/post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/post/</guid>
-      <description>Posts publicados </description>
-    </item>
-    <item>
-      <title>Oportunidades</title>
-      <link>//localhost:1313/oportunidades/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/oportunidades/</guid>
-      <description>Descubre una variedad de cursos, certificaciones, becas y ofertas laborales que impulsarán tu formación académica y profesional. Aquí encontrarás todo lo que necesitas para alcanzar tus metas y llevar tu carrera al siguiente nivel.</description>
-    </item>
-    <item>
       <title>Opportunities</title>
       <link>//localhost:1313/opportunities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -37,12 +23,19 @@
     </item>
     <item>
       <title>Post #1</title>
-      <link>//localhost:1313/posts/en/postone/</link>
+      <link>//localhost:1313/posts/postone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/en/postone/</guid>
-      <description>Una idea La idea de hacer &amp;lsquo;Code with B&amp;rsquo; es poder compartir mis conocimientos, experiencias y demás con las personas que están iniciando en el mundo de la tecnología. Espero esta página sea de gran ayuda para las personas que están comenzando en el mundo del código.
-Un sueño &amp;hellip; prefiero no decirlo.
-Y una laptop No recuerdo quien lo dijo, pero solo se necesita una idea, un sueño y una laptop.</description>
+      <guid>//localhost:1313/posts/postone/</guid>
+      <description>An Idea The idea of creating &amp;lsquo;Code with B&amp;rsquo; is to share my knowledge, experiences, and more with people who are starting in the world of technology. I hope this page is of great help to those who are beginning their journey into the world of coding.
+A Dream &amp;hellip; I&amp;rsquo;d rather not say.
+And a Laptop I don&amp;rsquo;t remember who said it, but all you need is an idea, a dream, and a laptop.</description>
+    </item>
+    <item>
+      <title>Posts</title>
+      <link>//localhost:1313/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

@@ -8,13 +8,48 @@
     <language>en-us</language>
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Post #1</title>
-      <link>//localhost:1313/posts/en/postone/</link>
+      <title>Acerca de mi</title>
+      <link>//localhost:1313/posts/es/acerca/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/en/postone/</guid>
+      <guid>//localhost:1313/posts/es/acerca/</guid>
+      <description> México / CDMX 📍 UNAM 💙💛 Ingeniero en computación / Ingeniero de software 💻 Desarrollador web jr Aprendiendo ciencia de datos Emprendedor NFL / Patriot 🏈 Amo la tecnología ❤️ </description>
+    </item>
+    <item>
+      <title>Oportunidades</title>
+      <link>//localhost:1313/posts/es/oportunidades/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/es/oportunidades/</guid>
+      <description>Descubre una variedad de cursos, certificaciones, becas y ofertas laborales que impulsarán tu formación académica y profesional. Aquí encontrarás todo lo que necesitas para alcanzar tus metas y llevar tu carrera al siguiente nivel.</description>
+    </item>
+    <item>
+      <title>Opportunities</title>
+      <link>//localhost:1313/posts/en/opportunities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/en/opportunities/</guid>
+      <description>Discover a variety of courses, certifications, scholarships, and job opportunities that will boost your academic and professional growth. Here, you&amp;rsquo;ll find everything you need to reach your goals and take your career to the next level.</description>
+    </item>
+    <item>
+      <title>Post #1</title>
+      <link>//localhost:1313/posts/es/publicaciones/postone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/es/publicaciones/postone/</guid>
       <description>Una idea La idea de hacer &amp;lsquo;Code with B&amp;rsquo; es poder compartir mis conocimientos, experiencias y demás con las personas que están iniciando en el mundo de la tecnología. Espero esta página sea de gran ayuda para las personas que están comenzando en el mundo del código.
 Un sueño &amp;hellip; prefiero no decirlo.
 Y una laptop No recuerdo quien lo dijo, pero solo se necesita una idea, un sueño y una laptop.</description>
+    </item>
+    <item>
+      <title>Posts</title>
+      <link>//localhost:1313/posts/en/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/en/posts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Publicaciones</title>
+      <link>//localhost:1313/posts/es/publicaciones/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/es/publicaciones/</guid>
+      <description>Algo </description>
     </item>
   </channel>
 </rss>

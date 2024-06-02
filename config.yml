@@ -7,6 +7,7 @@ defaultContentLanguage: en-us
 
 languages:
   en-us:
+    contentDir: content/en
     languageName: "English"
     title: "Code with B"
     weight: 1
@@ -20,15 +21,19 @@ languages:
         main:
           - name: "Home"
             url: "/"
-            weight: 10
+            weight: 1
+          - name: "Posts"
+            url: "/posts/"
+            weight: 2
           - name: "Opportunities"
             url: "/opportunities/"
-            weight: 20
+            weight: 3
           - name: "About me"
             url: "/about/"
-            weight: 30
+            weight: 4
 
   es:
+    contentDir: content/es
     languageName: "Spanish"
     title: "Code with B"
     weight: 2
@@ -42,13 +47,16 @@ languages:
       main:
         - name: "Inicio"
           url: "/"
-          weight: 10
+          weight: 1
+        - name: "Publicaciones"
+          url: "/publicaciones/"
+          weight: 2
         - name: "Oportunidades"
           url: "/oportunidades/"
-          weight: 20
+          weight: 3
         - name: "Acerca de mí"
-          url: "/about/"
-          weight: 30
+          url: "/acerca/"
+          weight: 4
 
 params:
   assets:

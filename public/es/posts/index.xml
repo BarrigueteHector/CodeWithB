@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Code with B</title>
+    <link>//localhost:1313/es/posts/</link>
+    <description>Recent content in Posts on Code with B</description>
+    <generator>Hugo -- 0.125.5</generator>
+    <language>es</language>
+    <atom:link href="//localhost:1313/es/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post #1</title>
+      <link>//localhost:1313/es/posts/postone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/es/posts/postone/</guid>
+      <description>Una idea La idea de hacer &amp;lsquo;Code with B&amp;rsquo; es poder compartir mis conocimientos, experiencias y demás con las personas que están iniciando en el mundo de la tecnología. Espero esta página sea de gran ayuda para las personas que están comenzando en el mundo del código.
+Un sueño &amp;hellip; prefiero no decirlo.
+Y una laptop No recuerdo quien lo dijo, pero solo se necesita una idea, un sueño y una laptop.</description>
+    </item>
+  </channel>
+</rss>
