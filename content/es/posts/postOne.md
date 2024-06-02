@@ -1,5 +1,5 @@
 ---
-title: 'Post #1'
+title: '#1: Una idea, un sueño y una laptop'
 draft: False
 ---
 

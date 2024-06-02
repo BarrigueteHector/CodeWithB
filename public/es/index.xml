@@ -8,6 +8,15 @@
     <language>es</language>
     <atom:link href="//localhost:1313/es/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>#1: Una idea, un sueño y una laptop</title>
+      <link>//localhost:1313/es/posts/postone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/es/posts/postone/</guid>
+      <description>Una idea La idea de hacer &amp;lsquo;Code with B&amp;rsquo; es poder compartir mis conocimientos, experiencias y demás con las personas que están iniciando en el mundo de la tecnología. Espero esta página sea de gran ayuda para las personas que están comenzando en el mundo del código.
+Un sueño &amp;hellip; prefiero no decirlo.
+Y una laptop No recuerdo quien lo dijo, pero solo se necesita una idea, un sueño y una laptop.</description>
+    </item>
+    <item>
       <title>Acerca de mi</title>
       <link>//localhost:1313/es/acerca/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -20,15 +29,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/es/oportunidades/</guid>
       <description>Descubre una variedad de cursos, certificaciones, becas y ofertas laborales que impulsarán tu formación académica y profesional. Aquí encontrarás todo lo que necesitas para alcanzar tus metas y llevar tu carrera al siguiente nivel.</description>
-    </item>
-    <item>
-      <title>Post #1</title>
-      <link>//localhost:1313/es/posts/postone/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/es/posts/postone/</guid>
-      <description>Una idea La idea de hacer &amp;lsquo;Code with B&amp;rsquo; es poder compartir mis conocimientos, experiencias y demás con las personas que están iniciando en el mundo de la tecnología. Espero esta página sea de gran ayuda para las personas que están comenzando en el mundo del código.
-Un sueño &amp;hellip; prefiero no decirlo.
-Y una laptop No recuerdo quien lo dijo, pero solo se necesita una idea, un sueño y una laptop.</description>
     </item>
     <item>
       <title>Publicaciones</title>
