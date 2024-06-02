@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/posts/postone/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="//localhost:1313/es/posts/postone/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="//localhost:1313/posts/postone/"
+                />
+  </url><url>
     <loc>//localhost:1313/about/</loc>
   </url><url>
     <loc>//localhost:1313/categories/</loc>
@@ -29,18 +41,6 @@
                 />
   </url><url>
     <loc>//localhost:1313/opportunities/</loc>
-  </url><url>
-    <loc>//localhost:1313/posts/postone/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="//localhost:1313/es/posts/postone/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/posts/postone/"
-                />
   </url><url>
     <loc>//localhost:1313/posts/</loc>
     <xhtml:link
