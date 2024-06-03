@@ -1,7 +1,7 @@
 baseURL: ""
 languageCode: "en-us"
 title: "Code with B"
-theme: PaperMod
+theme: hugo-PaperMod
 
 defaultContentLanguage: en-us
 
