@@ -26,7 +26,7 @@ languages:
             url: "/posts/"
             weight: 2
           - name: "Opportunities"
-            url: "./content/es/opportunities/"
+            url: "/opportunities/"
             weight: 3
           - name: "About me"
             url: "/about/"
@@ -46,16 +46,16 @@ languages:
     menu:
       main:
         - name: "Inicio"
-          url: "/"
+          url: "./"
           weight: 1
         - name: "Publicaciones"
-          url: "/publicaciones/"
+          url: "./publicaciones/"
           weight: 2
         - name: "Oportunidades"
           url: "./oportunidades/"
           weight: 3
         - name: "Acerca de mí"
-          url: "/acerca/"
+          url: "./acerca/"
           weight: 4
 
 params:
