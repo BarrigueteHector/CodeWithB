@@ -6,12 +6,12 @@
     <description>Recent content in Posts on Code with B</description>
     <generator>Hugo -- 0.125.5</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/es/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Extensiones para mejorar tu experiencia en VS code</title>
       <link>//localhost:1313/es/posts/vsc_extensions/</link>
-      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/es/posts/vsc_extensions/</guid>
       <description>Estas son algunas de las extensiones de VS Code que no pueden faltar en tu entorno de desarrollo:
 1. Git Copilot / Git Copilot Chat GitHub Copilot ofrece sugerencias de autocompletado, ya sea al comenzar a escribir el código o al agregar un comentario que describa lo que deseas hacer. Git Copilot Chat es un complemento de GitHub Copilot que ofrece una forma conversacional de desarrollar software. Cualquiera de las dos opciones que escojas te ayudará escribir o explicar el código, corregir errores e incluso realizar la documentación.</description>

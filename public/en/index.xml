@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ens on Code with B</title>
+    <link>//localhost:1313/en/</link>
+    <description>Recent content in Ens on Code with B</description>
+    <generator>Hugo -- 0.125.5</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#1: An idea, a dream and a laptop</title>
+      <link>//localhost:1313/en/posts/postone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/posts/postone/</guid>
+      <description>An Idea The idea of creating &amp;lsquo;Code with B&amp;rsquo; is to share my knowledge, experiences, and more with people who are starting in the world of technology. I hope this page is of great help to those who are beginning their journey into the world of coding.
+A Dream &amp;hellip; I&amp;rsquo;d rather not say.
+And a Laptop I don&amp;rsquo;t remember who said it, but all you need is an idea, a dream, and a laptop.</description>
+    </item>
+    <item>
+      <title>About me</title>
+      <link>//localhost:1313/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/about/</guid>
+      <description> México / CDMX 📍 UNAM 💙💛 Computer Engineer / Software Engineer 💻 Web developer jr Learning data science Entrepreneur NFL / Patriot 🏈 I love technology ❤️ </description>
+    </item>
+    <item>
+      <title>Opportunities</title>
+      <link>//localhost:1313/en/opportunities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/opportunities/</guid>
+      <description>Discover a variety of courses, certifications, scholarships, and job opportunities that will boost your academic and professional growth. Here, you&amp;rsquo;ll find everything you need to reach your goals and take your career to the next level.</description>
+    </item>
+    <item>
+      <title>Posts</title>
+      <link>//localhost:1313/en/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/en/posts/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

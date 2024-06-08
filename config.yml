@@ -26,7 +26,7 @@ languages:
             url: "/posts/"
             weight: 2
           - name: "Opportunities"
-            url: "/opportunities/"
+            url: "./content/es/opportunities/"
             weight: 3
           - name: "About me"
             url: "/about/"
