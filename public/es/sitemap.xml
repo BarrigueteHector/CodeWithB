@@ -2,16 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/es/posts/postone/</loc>
+    <loc>//localhost:1313/es/</loc>
+    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="//localhost:1313/posts/postone/"
+                href="//localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="//localhost:1313/es/posts/postone/"
+                href="//localhost:1313/es/"
+                />
+  </url><url>
+    <loc>//localhost:1313/es/posts/vsc_extensions/</loc>
+    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/es/posts/</loc>
+    <lastmod>2024-06-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="//localhost:1313/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="//localhost:1313/es/posts/"
                 />
   </url><url>
     <loc>//localhost:1313/es/acerca/</loc>
@@ -28,31 +45,7 @@
                 href="//localhost:1313/es/categories/"
                 />
   </url><url>
-    <loc>//localhost:1313/es/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="//localhost:1313/es/"
-                />
-  </url><url>
     <loc>//localhost:1313/es/oportunidades/</loc>
-  </url><url>
-    <loc>//localhost:1313/es/posts/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="//localhost:1313/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="//localhost:1313/es/posts/"
-                />
   </url><url>
     <loc>//localhost:1313/es/publicaciones/</loc>
   </url><url>
@@ -66,6 +59,18 @@
                 rel="alternate"
                 hreflang="es"
                 href="//localhost:1313/es/tags/"
+                />
+  </url><url>
+    <loc>//localhost:1313/es/posts/postone/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="//localhost:1313/posts/postone/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="//localhost:1313/es/posts/postone/"
                 />
   </url>
 </urlset>

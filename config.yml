@@ -80,7 +80,7 @@ params:
   #  linkFullImages: true
   
   disableThemeToggle: true
-  defaultTheme: dark # Dark theme (The theme is dark although it should be light.)
+  defaultTheme: dark 
 
   #ShowBreadCrumbs: true # Show breadcrumbs in the post
   #ShowShareButtons: true # Show share buttons in the post

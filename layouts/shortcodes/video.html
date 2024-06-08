@@ -1,0 +1,29 @@
+<!-- <video width="{{ .Get "width" }}" height="{{ .Get "height" }}" controls>
+    <source src="{{ .Get "src" }}" type="video/mp4">
+</video> -->
+
+<video class="video" controls loop autoplay muted>
+    <source src="{{ .Get "src" }}" type="video/mp4">
+    Tu navegador no soporta la etiqueta de video.
+</video>
+{{ if .IsNamedParams }}
+    {{ if .Get "caption" }}
+        <div class="video-caption">{{ .Get "caption" }}</div>
+    {{ end }}
+{{ end }}
+
+<br>
+
+<style>
+    .video {
+        margin-top: 15px;
+        width: 100%;
+        height: auto;
+    }
+
+    .video-caption {
+        font-size: 16px;
+        color: #666;
+        text-align: center;
+    }
+</style>

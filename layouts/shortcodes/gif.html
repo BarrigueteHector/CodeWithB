@@ -1,0 +1,20 @@
+<img src="{{ .Get "src" }}" alt="{{ .Get "alt" }}" class="gif">
+{{ if .IsNamedParams }}
+    {{ if .Get "caption" }}
+        <div class="gif-caption">{{ .Get "caption" }}</div>
+    {{ end }}
+{{ end }}
+
+<style>
+    .gif {
+        width: 100%;
+        height: auto;
+    }
+
+    .gif-caption {
+        margin-top: 0px;
+        font-size: 16px;
+        color: #666;
+        text-align: center;
+    }
+</style>

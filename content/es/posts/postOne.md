@@ -1,5 +1,5 @@
 ---
-title: '#1: Una idea, un sueño y una laptop'
+title: 'Una idea, un sueño y una laptop'
 draft: False
 ---
 
@@ -7,7 +7,7 @@ draft: False
 
 La idea de hacer 'Code with B' es poder compartir mis conocimientos, experiencias y demás con las personas que están iniciando en el mundo de la tecnología. Espero esta página sea de gran ayuda para las personas que están comenzando en el mundo del código.
 
-![Code with B image](/images/CodeWithB.PNG) 
+![Code with B image](/images/CodeWithB.PNG)
 
 # Un sueño
 
