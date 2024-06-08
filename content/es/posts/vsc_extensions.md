@@ -1,6 +1,6 @@
 ---
 title: 'Extensiones para mejorar tu experiencia en VS code'
-date: 2024-06-06
+date: 2024-06-07
 draft: false
 ---
 
