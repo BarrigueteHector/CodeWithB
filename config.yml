@@ -52,7 +52,7 @@ languages:
           url: "/publicaciones/"
           weight: 2
         - name: "Oportunidades"
-          url: "/oportunidades/"
+          url: "./oportunidades/"
           weight: 3
         - name: "Acerca de mí"
           url: "/acerca/"

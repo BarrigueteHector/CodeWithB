@@ -1,7 +1,7 @@
 ---
 title: 'Extensiones para mejorar tu experiencia en VS code'
 date: 2024-06-07
-draft: false
+draft: true
 ---
 
 Estas son algunas de las extensiones de VS Code que no pueden faltar en tu entorno de desarrollo:
